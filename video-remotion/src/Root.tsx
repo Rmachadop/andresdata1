@@ -20,10 +20,10 @@ export const RemotionRoot: React.FC = () => {
         // You can override these props for each render:
         // https://www.remotion.dev/docs/parametrized-rendering
         defaultProps={{
-          titleText: "Welcome to Remotion",
-          titleColor: "#000000",
-          logoColor1: "#91EAE4",
-          logoColor2: "#86A8E7",
+          titleText: "Hola desde Ezzquad",
+          titleColor: "#0B1F3A",
+          logoColor1: "#F2A93B",
+          logoColor2: "#0B1F3A",
         }}
       />
 
